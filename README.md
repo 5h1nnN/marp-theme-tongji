@@ -2,7 +2,7 @@
 # 同济大学Marp主题
 一个简陋的同济Marp主题，适用于课程汇报等，方便快捷。可以使用Markdown直接生成PPT。
 ## 使用方法
-利用[Marp](marp.app)从Markdown制作PPT，推荐使用VS Code插件。
+利用[Marp](https://marp.app)从Markdown制作PPT，推荐使用VS Code插件。
 
 直接克隆本仓库即可使用，觉得背景不好看也可进行替换。
 ## 效果展示
