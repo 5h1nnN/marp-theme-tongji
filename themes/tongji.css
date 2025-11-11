@@ -9,11 +9,12 @@
 }
 
 section {
-    background-image: url("./images/background.png");
+    background-image: url("./images/background.jpg");
+    background-size: 100%;
 }
 
 section.title {
-    background-image: url("./images/title.png");
+    background-image: url("./images/title.jpg");
 }
 section.title h1 {
     top: 30%;
@@ -34,7 +35,7 @@ section.title p {
     top: 60%;
 }
 section.chapter {
-    background-image: url("./images/chapter.png");
+    background-image: url("./images/chapter.jpg");
 }
 section.chapter h1 {
     position: relative;
