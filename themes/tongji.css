@@ -63,8 +63,16 @@ ul {
     font-family: var(--font-family-paragraph);
 }
 
+ul strong {
+    color: var(--color-foreground);
+}
+
 li {
     font-family: var(--font-family-paragraph);
+}
+
+li strong {
+    color: var(--color-foreground);
 }
 
 blockquote {
