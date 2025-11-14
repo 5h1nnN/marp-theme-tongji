@@ -7,7 +7,10 @@
     --color-highlight: lightskyblue;
     --font-family-paragraph: "Noto Serif SC", serif;
 }
-
+img[alt~="center"] {
+    display: block;
+    margin: 0 auto;
+}
 section {
     background-image: url("./images/background.jpg");
     background-size: 100%;
