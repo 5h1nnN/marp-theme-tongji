@@ -23,3 +23,4 @@
 ![8](export/幻灯片8.PNG)
 ---
 ![9](export/幻灯片9.PNG)
+> 更正：此时图片也可以使用Markdown语法插入
